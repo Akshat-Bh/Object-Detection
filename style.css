@@ -1,0 +1,17 @@
+body
+{
+    background-size: cover;
+}
+
+a
+{
+    background-color: white;
+    padding: 30px;
+    border-radius: 25px;
+}
+
+div
+{
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
